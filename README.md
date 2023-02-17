@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning data analysis 
 - 🌱 I’m currently learning ... SQL 
 - 💞️ I’m looking to collaborate on ...projects on SQL & PowerBI
-- 📫 How to reach me ...mihir.n.desai@gmail.com
+- 📫 How to reach me ...mdesai22@stevens.edu
 
 <!---
 mihird7/mihird7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
